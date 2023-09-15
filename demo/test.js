@@ -1,1 +1,0 @@
-console.log("kings and generals");
