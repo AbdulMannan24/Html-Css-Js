@@ -1,0 +1,15 @@
+/*  Adding CSS to html files */
+/* universal selector */
+*{
+    margin: 0;
+    padding: 0;
+    font-family:sans-serif;
+}
+#first {
+    height: 500px;
+    width: 400px;   
+}
+#second {
+    height: 500px;
+    width: 400px;
+}
