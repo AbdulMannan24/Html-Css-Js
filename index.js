@@ -1,1 +1,1 @@
-console.log("javascript is running");
+console.log("The day was not utilized properly")
