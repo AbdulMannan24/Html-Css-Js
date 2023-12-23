@@ -9,3 +9,14 @@ body {
     font-size: 25px;
 }
 
+.inner {
+    background-color:red;
+    width: 200px;
+    height: 200px;
+}
+
+#parent {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
